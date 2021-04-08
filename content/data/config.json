@@ -24,7 +24,8 @@
             {
                 "label": "Style Guide",
                 "url": "/style-guide/",
-                "style": "icon"
+                "style": "icon",
+                "icon_class": "facebook"
             },
             {
                 "label": "About",
